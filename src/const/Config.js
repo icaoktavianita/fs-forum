@@ -1,0 +1,4 @@
+export default {
+    AUTH: 'fsForum',
+    FIREBASE_KEY: 'key=AAAAtJIDMxw:APA91bE9a0vRjpuxPl2ynQ1WH1cKO1WJQh1To8Oax5Yknk1HidTaOvSCJB1J-GBVPsMNC9p_h8zLHjeB85QIbjNeNo1s1ELBwBTchzzDcDw6KFaCBRKP64hbhaVDxMcb3T8KIOKI4UIr'
+}
